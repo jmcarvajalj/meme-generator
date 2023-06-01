@@ -19,11 +19,14 @@
 <li>NodeJS</li>
 </ul><h2>Screenshots</h2>
 <hr><p><img src="https://i.imgur.com/0yqG95W.png" alt=""></p><h2>Setup</h2>
-<hr><p>This React was made using Vite.</p><h5>Steps</h5><ul>
+<hr><p>This React app was made using Vite.</p><h5>Steps</h5><ul>
 <li>Clone the repository</li>
 </ul><ul>
-<li>Run the following commands</li>
-</ul><ul>
+<li>Run the following commands to install dependencies and start development server</li>
+```bash
+cd meme-generator
+npm install
+npm run dev```
 <li>Change or improve the app however you like!</li>
 </ul><h2>Usage</h2>
 <hr><p>To use the app just click on the button that says "Get a new meme image" and then add whatever top and bottom text you want!</p><h2>Contact</h2>
