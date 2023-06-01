@@ -23,10 +23,13 @@
 <li>Clone the repository</li>
 </ul><ul>
 <li>Run the following commands to install dependencies and start development server</li>
+
 ```bash
 cd meme-generator
 npm install
-npm run dev```
+npm run dev
+```
+
 <li>Change or improve the app however you like!</li>
 </ul><h2>Usage</h2>
 <hr><p>To use the app just click on the button that says "Get a new meme image" and then add whatever top and bottom text you want!</p><h2>Contact</h2>
