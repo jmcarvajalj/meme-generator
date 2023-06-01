@@ -1,4 +1,4 @@
-<a href="https://jmcarvajalj.github.io/meme-generator/" target="_blank"><h1>Meme Generator</h1></a>
+<h1><a href="https://jmcarvajalj.github.io/meme-generator/" target="_blank">Meme Generator</a></h1>
 <p>This app uses an API to retrieve various memes, and you can add any top and bottom text to the meme.</p><h2>General Information</h2>
 <ul>
 <li>This project was made to learn about React.</li>
