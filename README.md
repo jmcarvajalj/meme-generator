@@ -1,13 +1,13 @@
 <h1>Meme Generator</h1>
-<hr><p>This app uses an API to retrieve various memes, and you can add any top and bottom text to the meme.</p><h2>General Information</h2>
-<hr><ul>
+<p>This app uses an API to retrieve various memes, and you can add any top and bottom text to the meme.</p><h2>General Information</h2>
+<ul>
 <li>This project was made to learn about React.</li>
 </ul><ul>
-<li>To learn about components, how do forms work in React.</li>
+<li>To learn about components, and how do forms work in React.</li>
 </ul><ul>
-<li>And to learn about state management, and the hooks useState and useEffect</li>
+<li>To learn about state management, and the hooks useState and useEffect</li>
 </ul><h2>Technologies Used</h2>
-<hr><ul>
+<ul>
 <li>HTML</li>
 </ul><ul>
 <li>CSS</li>
