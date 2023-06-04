@@ -5,7 +5,7 @@
 </ul><ul>
 <li>To learn about components, and how do forms work in React.</li>
 </ul><ul>
-<li>To learn about state management, and the hooks useState and useEffect</li>
+<li>To learn about state management, and the hooks useState and useEffect.</li>
 </ul><h2>Technologies Used</h2>
 <ul>
 <li>HTML</li>
@@ -20,9 +20,9 @@
 </ul><h2>Screenshots</h2>
 <p><a href="https://jmcarvajalj.github.io/meme-generator/" target="_blank"><img src="https://i.imgur.com/0yqG95W.png" alt=""></a></p><h2>Setup</h2>
 <p>This React app was made using Vite.</p><h5>Steps</h5><ul>
-<li>Clone the repository</li>
+<li>Clone the repository.</li>
 </ul><ul>
-<li>Run the following commands to install dependencies and start development server</li>
+<li>Run the following commands to install dependencies and start development server.</li>
 
 ```bash
 cd meme-generator
